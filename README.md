@@ -1,3 +1,4 @@
+LOCAL
 # sharezza-pull
 
 Lorem ipsum
