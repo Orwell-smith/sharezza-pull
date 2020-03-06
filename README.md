@@ -1,3 +1,4 @@
+REMOTE
 # sharezza-pull
 
 Lorem ipsum
